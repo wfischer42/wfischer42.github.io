@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Karla';
-  src: url('../public/fonts/Karla-VariableFont_wght.ttf') format('truetype');
+  src: url('/fonts/Karla-VariableFont_wght.ttf') format('truetype');
 }
 
 :root {
