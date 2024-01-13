@@ -15,7 +15,7 @@ export const DarkModeToggle: React.FC<React.ButtonHTMLAttributes<HTMLButtonEleme
     >
       <div
         className={twJoin(
-          'w-5 h-5 rounded-full absolute bg-neutral-100 top-[3px] left-1 transition-transform duration-150 ease-in-out dark:translate-x-[18px]'
+          'w-5 h-5 rounded-full absolute bg-neutral-100 top-1 left-1 transition-transform duration-150 ease-in-out dark:translate-x-[18px]'
         )}
       />
       <div
